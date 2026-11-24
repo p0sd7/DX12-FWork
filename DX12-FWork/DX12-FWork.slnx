@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DX12-FWork.vcxproj" Id="298316fe-dd12-4051-9631-0324bde0680d" />
+</Solution>
